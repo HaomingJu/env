@@ -1,0 +1,2 @@
+vim-8.2.2311.zip filter=lfs diff=lfs merge=lfs -text
+electron-ssr-0.2.6.deb filter=lfs diff=lfs merge=lfs -text
